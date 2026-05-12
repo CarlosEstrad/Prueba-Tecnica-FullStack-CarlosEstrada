@@ -44,7 +44,7 @@ Se implementaron pruebas robustas en el Frontend utilizando Jasmine y Karma.
 
 * **Componente Home:** Pruebas de inicialización de formularios, apertura de modales y cierre de sesión.
 * **AuthInterceptor:** Validación de inyección de tokens de seguridad.
-* **Cobertura:** **44%** (Enfocada en el Core de la aplicación).
+* **Cobertura:** **91.35%** (Enfocada en el Core de la aplicación).
 
 **Para ejecutar las pruebas:**
 ```bash
